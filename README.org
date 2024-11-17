@@ -1,0 +1,13 @@
+* bocu.el
+
+This is an implementation of BOCU-1 for Emacs.
+BOCU stands for "Binary Ordered Compression for Unicode".
+
+It can sometimes significantly reduce the size of multilingual text.
+
+* Documentation
+
+For details of BOCU, please refer the followings.  Wikipedia page also mentions the patents on BOCU.
+
+- https://en.wikipedia.org/wiki/Binary_Ordered_Compression_for_Unicode
+- https://www.unicode.org/notes/tn6
